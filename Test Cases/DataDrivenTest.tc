@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDrivenTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2737a56-f12d-4e65-bf97-310b5716b984</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b3ba1bb6-7530-4b2f-8b4f-d71c78980253</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Hairul'</defaultValue>
+      <description></description>
+      <id>b3ba1bb6-7530-4b2f-8b4f-d71c78980253</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+</TestCaseEntity>
